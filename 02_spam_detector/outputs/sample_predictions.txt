@@ -1,0 +1,6 @@
+Sample predictions
+------------------
+[SPAM] Congratulations! You won a FREE lottery prize. Call now to claim your cash.
+[HAM ] Hey, are we still meeting at 6 for dinner?
+[SPAM] URGENT: Your bank account will be closed. Verify at http://bit.ly/not-real
+[HAM ] Can you send the assignment notes when you get home?

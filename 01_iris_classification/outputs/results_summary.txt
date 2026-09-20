@@ -1,0 +1,14 @@
+Iris Flower Classification — Results
+=====================================
+Best model: Logistic Regression
+Test accuracy: 0.933
+Macro F1: 0.933
+5-fold CV accuracy: 0.958 ± 0.026
+
+Notes
+-----
+- Features: sepal length/width, petal length/width (cm)
+- Target: setosa, versicolor, virginica
+- Train/test split: 80/20, stratified
+- Logistic Regression and KNN use StandardScaler
+- Petal length and petal width separate the species most clearly

@@ -1,0 +1,16 @@
+Spam Mail Detector — Results
+=============================
+Dataset: SMS Spam Collection
+Rows: 5572
+Best model: Logistic Regression
+Accuracy: 0.976
+Spam precision: 0.896
+Spam recall: 0.926
+Spam F1: 0.911
+
+Pipeline
+--------
+1. Lowercase + English stopword removal
+2. TF-IDF unigrams + bigrams
+3. Naive Bayes vs class-weighted Logistic Regression
+4. Report spam-class metrics (more important than overall accuracy)
